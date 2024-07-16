@@ -1,4 +1,4 @@
-import platforms from "../data/genres";
+import platforms from "../data/platforms";
 
 interface Platform {
   id: number;
